@@ -14,7 +14,7 @@ module.exports = {
       title: 'Write Tech',
       logo: {
         alt: '',
-        src: '',
+        src: 'img/logo.svg',
       },
       items: [
         {
