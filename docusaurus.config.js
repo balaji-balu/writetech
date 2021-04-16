@@ -39,41 +39,41 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Getting Started',
-              to: 'docs/',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Github',
-              href: 'https://github.com/balaji-balu',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/balajibalutvm',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
+        // {
+        //   title: 'Docs',
+        //   items: [
+        //     {
+        //       label: 'Getting Started',
+        //       to: 'docs/',
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: 'Community',
+        //   items: [
+        //     {
+        //       label: 'Github',
+        //       href: 'https://github.com/balaji-balu',
+        //     },
+        //     {
+        //       label: 'Twitter',
+        //       href: 'https://twitter.com/balajibalutvm',
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: 'More',
+        //   items: [
+        //     // {
+        //     //   label: 'Blog',
+        //     //   to: 'blog',
+        //     // },
+        //     {
+        //       label: 'GitHub',
+        //       href: 'https://github.com/balaji-balu',
+        //     },
+        //   ],
+        // },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} WriteTech. Built with Docusaurus.`,
     },
