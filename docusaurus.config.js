@@ -10,16 +10,17 @@ module.exports = {
   organizationName: 'balaji-balu', // Usually your GitHub org/user name.
   projectName: 'writetech', // Usually your repo name.
   themeConfig: {
+    prisma: {
+      theme: require('prism-react-renderer/themes/github'),
+      darkTheme: require('prism-react-renderer/themes/dracula'),
+    },
     navbar: {
       title: 'WriteTech',
       logo: {
         alt: '',
         src: 'img/writetechlogo.svg',
       },
-      prism: {
-        theme: require('prism-react-renderer/themes/github'),
-        darkTheme: require('prism-react-renderer/themes/dracula'),
-      },
+      
       // items: [
       //   {
       //     to: 'docs/',
