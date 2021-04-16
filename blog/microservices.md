@@ -12,14 +12,27 @@ tags: [microservices, monolith]
 
 _In this series of articles we will start our journey from a business idea to  microservices_.  
 
-## idea to MVP
+## Idea to MVP
 
+As the software matures, decompose your software into loosely coupled services that are deployable independently. 
+
+## Decompose your current software 
+
+into loosely coupled services using <<bounded context- use simple language here and refer to bounded context>>
+
+
+
+
+
+don't be quick to develop microservices 
+
+### Data Modeling 
 
 <<develop a monolith using frameworks like redwoodjs, ruby on rails>>
 
 <<redwoodjs stack>>
 
-These wonderful tutorials that introduces to redwoodjs
+[These redwoojs tutorials](https://learn.redwoodjs.com/docs/tutorial/welcome-to-redwood) is good introduction to developing using [redwoodjs](https://redwoodjs.com/)
 
 ## working monolith 
 
