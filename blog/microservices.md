@@ -6,7 +6,7 @@ author_url: https://github.com/balaji-balu
 author_image_url: https://avatars.githubusercontent.com/u/22535075?v=4
 tags: [microservices, monolith]
 ---
-<<executive summary goes here>>
+executive summary goes here
 
 <!--truncate-->
 
@@ -18,19 +18,15 @@ As the software matures, decompose your software into loosely coupled services t
 
 ## Decompose your current software 
 
-into loosely coupled services using <<bounded context- use simple language here and refer to bounded context>>
-
-
-
-
+into loosely coupled services using **bounded context- use simple language here and refer to bounded context**
 
 don't be quick to develop microservices 
 
 ### Data Modeling 
 
-<<develop a monolith using frameworks like redwoodjs, ruby on rails>>
+**develop a monolith using frameworks like redwoodjs, ruby on rails
 
-<<redwoodjs stack>>
+redwoodjs stack**
 
 [These redwoojs tutorials](https://learn.redwoodjs.com/docs/tutorial/welcome-to-redwood) is good introduction to developing using [redwoodjs](https://redwoodjs.com/)
 
@@ -56,7 +52,7 @@ don't be quick to develop microservices
 
 ### production checklist 
 
-<<learnk8s best practices>>
+**learnk8s best practices**
 
 ## converting a legacy module to a microservice 
 

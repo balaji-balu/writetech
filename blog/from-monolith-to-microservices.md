@@ -1,12 +1,7 @@
 ---
-slug: starting-your-journey-from-monolith-to-microservices-short-version
-title: Starting your journey from monolith to microservices (short version)
-author: B. Balaji
-author_url: https://github.com/balaji-balu
-author_image_url: https://avatars.githubusercontent.com/u/22535075?v=4
-tags: [microservices, monolith]
+
 ---
-<<executive summary goes here>>
+executive summary goes here
 
 <!--truncate-->
 
